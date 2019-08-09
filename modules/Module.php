@@ -4,7 +4,7 @@ namespace modules;
 use Craft;
 
 /**
- * Custom module class.
+ * Custom module class modules.
  *
  * This class will be available throughout the system via:
  * `Craft::$app->getModule('my-module')`.
